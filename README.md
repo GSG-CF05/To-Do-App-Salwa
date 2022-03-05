@@ -30,12 +30,14 @@ this project is an application. It used to help you to organize your time and wo
 ---
 
 ## Get the project on your local machine:-
+
 - Open the repository of the project
 - Get clone of link project from code button
 - Go to Git and write "git clone" then paste the link
 - write "code ." to open visual studio code
 - from the mouse on html page click right and choose open with live server
 - the project will be opened in your browser
+
 ## Team member:-
 
 - [Salwa Siksik](https://github.com/salwasiksik)
